@@ -2,6 +2,7 @@
 
 Pneumonia is an infection that inflames air sacs in one or both lungs. Symptoms of pneumonia can range from mild to life-threatening, therefore it is important to be able to diagnose this disease before it worsens. This project thus aims to construct a stable and accurate automatic detection model of pneumonia using Recurrent Neural Networks (RNN) in Tensorflow.
 
+
 Sample chest x-rays with pneumonia:
 
 ![index](https://user-images.githubusercontent.com/44122417/138588383-0086b16e-c23a-448e-9ff4-c3a72201fb5e.png)
